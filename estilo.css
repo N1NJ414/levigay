@@ -1,0 +1,35 @@
+.botãoL{
+    color:white;
+    font-size: 80px;
+    text-align: center;
+    border-radius: 40px;
+    background-color: cadetblue;
+    margin-left: 640px;
+
+    }
+.botãoL:hover{
+        transform: scale(1.2);
+        
+        transform: translateY(-3px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+         transform: scale(1.1);
+         animation: pulse 1s ease infinite;
+        
+    }
+    
+
+.headsite{
+    text-align: center;
+    font-family: cursive;
+    color:#DE8AF1;
+    font-size: 50px;
+
+}
+.caralho{
+    text-align: center;
+    font-size: 40px;
+    color:#FA6ABF ;
+}
+body{
+    background-color: blueviolet;
+}
